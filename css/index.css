@@ -1,13 +1,13 @@
-header{
+.c1{
     text-align: center;
     color: red;
     background-color: aqua;
 }
-h2{
+.c2{
     text-align: center;
     color: blue;
 }
-footer{
+.c3{
     text-align: center;
     color: red;
     background-color: aqua;
